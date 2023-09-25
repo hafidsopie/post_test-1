@@ -6,7 +6,7 @@ POST TEST 1
 
 PROGRAM MENGHITUNG VOLUME BANGUN RUANG
 # FLOWCHART
-![flowchart POST TESTN1 drawio](https://github.com/hafidsopie/post_test-1/assets/144792158/7385bbea-04c7-4c42-93b3-a79c1497067d)
+![post test__1 drawio](https://github.com/hafidsopie/post_test-1/assets/144792158/12c77fac-062c-4ba5-9953-c084c4fdf972)
 
 # PENJELANA MENGENAI OUTPUT DAN SCREENSHOT
    Program python yang saya buat ini memiliki Login sederhana dan memungkinkan user untuk menghitung volume bangun ruang tabung, bola, limas segitiga
