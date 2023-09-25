@@ -41,7 +41,8 @@ jika pada pemilihan terdapat nilai jari jari  maka program menentukan untuk nila
 
 3. mencari volume limas segitiga
 
-   <img width="406" alt="Screenshot 2023-09-26 030005" src="https://github.com/hafidsopie/post_test-1/assets/144792158/286834dd-f424-4de5-b44d-5368afca0db6">
+   <img width="196" alt="Screenshot 2023-09-26 060100" src="https://github.com/hafidsopie/post_test-1/assets/144792158/fcf36f5c-57b7-4c07-b5f8-6373b244960f">
+
 
 Program menghitung volume bangun ruang yang diminta sesuai dengan rumus volume yang telah saya berikan.
 Hasil perhitungan tersebut dicetak ke layar bersama dengan pesan yang sesuai.
